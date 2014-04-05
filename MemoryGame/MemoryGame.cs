@@ -108,8 +108,7 @@ namespace MemoryGame
             if (firstClicked.Text == secondClicked.Text)
             {
                 firstClicked = null;
-                secondClicked = null;
-                return;
+                secondClicked = null;                
             }
             else
             {
